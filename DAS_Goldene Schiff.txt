@@ -1,0 +1,337 @@
+Quests für das Goldene Schiff:
+	#region Stets zu Diensten
+		30 Aufträge ohne unterbrechung
+		
+		-> Titel: das Faktotum + 100 Perlen
+	
+	#endregion
+		
+	#region Tyrannei böser männer
+		#region Fieberwahn
+			Marie D´artoid besiegen nach frühestens 3 h
+			
+			-> 20 perlen
+		#endregion
+		#region Goldener Löffel
+			Sir Gavin Lagton besiegen nach frühestens 3 h
+			
+			-> 20 Perlen
+		#endregion
+		#region Wolf im Talar
+			Kardinal Lucius besiegen nach frühestens 4 h
+			
+			-> 20 Perlen
+		#endregion
+		#region Du! Wirst! Nicht! Siegen!
+			Leif Jorgensen besiegen nach frühestens 2 h
+			
+			-> 20 Perlen
+		#endregion
+		#region Schicksalsschlag
+			Willem van der Mark besiegen nach frühestens 2 h
+			
+			-> 20 Perlen
+		#endregion
+		#region Trügerische Schönheit
+			Baronessa Constanza Zanchi besiegen nach frühestens 4 h
+			
+			-> 20 Perlen
+		#endregion
+		#region Fehlgeschlagene Spekulationen
+			Giovanni die Mercante besiegen nach frühestens 4 h
+			
+			-> 20 Perlen
+		#endregion
+		#region Landadel
+			Helena Flores besiegen nach frühestens 3 h
+			
+			-> 20 Perlen
+		#endregion
+		#region In den Schatten
+			Guy Forcas besiegen nach frühestens 3 h
+			
+			-> 20 Perlen
+		#endregion
+		#region Demut
+			Hildegard von Lewenstein besiegen nach frühestens 2 h
+			
+			-> 20 Perlen
+		#endregion
+		
+		-> Titel: Der Vollstrecker + neues Portrait (al Rashid) + 100 Perlen
+	#endregion
+	#region der hohe Rat
+		#region Der Glaube ist mein Weg
+			Metropole errichten und dann Aufträge Für Marie D´artois erledigen:
+				Achse des Guten
+				Wahrer Reichtum
+				Glaubenskampf
+			-> 20 Perlen
+		#endregion
+		#region Verschwendung aus Überfluss
+			Metropole errichten und dann Aufträge für Gavin Langton erledigen:
+				Etwas Großes
+				Versicherung
+			-> 20 Perlen
+		#endregion
+		#region Der Teufel sieht blass aus gegen mich
+		Metropole errichten und dann Aufträge Für Cardinal Lucius erledigen:
+				Heilige Pflicht
+				Angemessen
+				Gott will es
+			-> 20 Perlen
+		#endregion
+		#region Wenn ich einmal groß bin
+			Metropole errichten und dann Aufträge Für Leif Jorgensen erledigen:
+				Weltfrieden
+				Talent
+			-> 20 Perlen
+		#endregion
+		#region Alles ist vergänglich
+			Metropole errichten und dann Aufträge Für Wilema van der Mark erledigen:
+				Wunder im Sand
+			-> 20 Perlen
+		#endregion
+		#region Spieglein Spieglein an der Wand
+			Metropole errichten und dann Aufträge Für Baronessa erledigen:
+				Ruhmreich
+				Anerkennung
+			-> 20 Perlen
+		#endregion
+		#region Man muss verdienen solange man kann
+			Metropole errichten und dann Aufträge Für Giovanni erledigen:
+				Reich bemessen
+				Manifest des Erfolges
+			-> 20 Perlen
+		#endregion
+		#region DAs Glück liegt dem Tüchtigen
+			Metropole errichten und dann Aufträge Für Helena Flores erledigen:
+				Glaubenshilfe
+				Bauernstaat
+			-> 20 Perlen
+			
+		#endregion
+		#region Mit allen Mitteln
+			Metropole errichten und dann Aufträge Für Guy Forcas erledigen:
+				Volksherrschaft
+				In stein gemeißelt
+			-> 20 Perlen
+			
+		#endregion
+		#region Tugend und Buße
+			Metropole errichten und dann Aufträge Für Hildegard erledigen:
+				Arme Seelen
+			-> 20 Perlen
+		#endregion
+		
+		-> Mitglied des Hohen Rates: 100 Perlen
+	#endregion
+	#region Die Feder ist mächtiger als das Schwert
+		#region Krieg ist die Hölle
+			150 Kreigserklärungen aussprechen
+			
+			-> 20 perlen
+		#endregion
+		#region Gemeinsam sind wir stark
+			100 * Hilfsflottenunterstützung erhalten
+			
+			-> 20 Perlen
+		#endregion
+		#region Er aber, sags ihm, er kann mich...
+			In einer Schweren Partie 20 Beleidigungen aus, keine darf fehlschlagen (durchgehend)
+
+			-> Perlen
+		#endregion
+		#region Schicke Halskrause
+			Schwere Partie 20 * Einschmeicheln (durchgehend)
+			
+			-> 20 Perlen
+		#endregion
+		#region Geld oder Leben
+			150.000 Gold als Tribut erhalten
+			
+			-> 20 Perlen
+		#endregion
+		#region Nimm das Gold und Lass mich in Frieden
+			850.000 Gold an Tribut Zahlen
+			
+			-> 20 Perlen
+		#endregion
+		
+		-> Titel der Zeremonienmeister: 100 Perlen
+	#endregion
+	#region So glaube sich jeder seinen Ring der Echten
+		2000 Adelige und Gesannte auf 1 Insel
+		
+		-> Der Weise: 100 Perlen
+	#endregion
+	#region Wir haben doch keine Zeit
+		Schwere Partie: 7h Kaiserdom
+		
+		-> Der Annokrat: 100 Perlen
+	#endregion
+	#region Das Emirat
+		Schweres Endlosspiel 5h Sultansmoschee
+		
+		-> Der Emir: 100 Perlen
+	#endregion
+	#region Eine Geschichte aus 2 Inseln
+		Metropole mit nur 2 inseln
+		
+		-> Architekt des Hofes: 100 Perlen
+	#endregion
+	#region Wir sind das Volk
+		#region Erst kommt das Fressen, dann die Moral
+			> 5000 Bettler in einer Partie 
+			
+			-> Titel: Prinz der Bettler: Portrait Bettler: 100 Perlen
+		#endregion
+		#region Der Bauernstaat
+			> 20.000 Bauern in einer Partie
+			
+			-> 20 Perlen
+		#endregion
+		#region Stadtluft macht Frei
+			> 15.000 Bürger in einer Partie
+			
+			-> 20 Perlen
+		#endregion
+		#region Das Goldene Zeitalter der Hanse
+			> 15.000 Patrizier in einer Partie
+			
+			-> 20 Perlen
+		#endregion
+		#region Nur Adel verpflichtet
+			>10.000 Adelige in einer PArtie
+			
+			-> 20 Perlen
+		#endregion
+		#region Kinder der Wüste
+			> 20.000 Nomaden
+			
+			-> 20 perlen
+		#endregion
+		#region Hüter des Morgenlandes
+			> 15.000 Gesandte
+			
+			-> 20 perlen
+		#endregion
+		
+		-> Held des Volkes: 100 Perlen
+	#endregion
+	#region Handel ist Chefsache
+		Metropole ohne jemals Waren in den Handel zu stellen
+		
+		-> Titel: Großhändler des Reiches: 100 Perlen
+	#endregion
+	#region Seebären
+		Heuern sie die Kaiserlichen Kapitäne an:
+			Heinrich der Kühne
+			Klaas van Heems
+			
+		-> 20 Perlen
+	#endregion
+	#region Hammer und Amboss
+		Heuern sie die Kaiserlichen Generäle an:
+			Ludwid der Rasende
+			Hadrian der Grausame
+			
+		-> 20 Perlen
+	#endregion
+	#region Die Fortsetzung der Politik mit anderen Mitteln
+		#region Du und Welche Armee
+			Zerstören, in einer Partie, jeweils 10 von: 
+				Kleines Heerlager
+				Großes Heerlager
+				Trebuchetstellung
+				
+			-> 20 Perlen	
+		#endregion
+		#region Wer nicht für mich ist, ist gegen mich
+			insgesamt 500 gegnerische Armeen zerstören
+			
+			-> 20 Perlen
+		#endregion
+		#region Verbrannte Erde
+			750 Gebäude Zerstören insgesamt
+			
+			-> 20 Perlen
+		#endregion
+		#region Billiger als Selberbauen
+			100 Gegnerische Kontore oder Markthäuser übernehmen
+			
+			-> 20 Perlen
+		#endregion
+		
+		-> Titel: Der Große Stratege: 100
+	#endregion
+	#region Futter für die Fische
+		2500 Schiffe versenken
+		
+		-> Titel: Schrecken der Meere: Portrait Hassan ben Sahid: 100 Perlen
+	#endregion
+	#region Wer ist dieser Robin?!
+		50 Lager der Gesetzlosen zerstören
+		
+		->Titel Der Grausame: Portrait Barnabas: 100 Perlen
+	#endregion
+	#region Die Schwarze Flotte
+		Schwere Partie, 50 gegenerische schiffe versenken, selbst keines Verlieren
+		
+		-> Titel Admiral der Krone: 100 Perlen
+	#endregion 
+	#region Wächtger des Reiches
+		#region Ein Manifest des Glaubens
+			
+		#endregion 
+		#region Im Zeichen des Kreuzes
+		#endregion
+		#region Aufbruch ins gelobte Land
+		#endregion
+		#region Die verlorenen Kinder
+		#endregion
+		#region Ein Sturm bricht Los
+		#endregion
+		#region In der Falle
+		#endregion
+		#region Der Mann mit der Maske
+		#endregion
+		#region Säulen der Gerechtigkeit
+		#endregion
+		
+		->Titel Wächter des Reiches: Portrait Kaiser: 100 Perlen
+	#endregion
+	
+	
+	
+	
+	
+	
+	
+	I can see what you see not.
+	Visions milky, then eyes rot.
+	When you turn they will be gone,
+	Whispering their hidden song.
+	Then you see,what cannot be,
+	Shadows move where light should be.
+	Out of darkness out of mind,
+	Cast down, into the Halls of the Blind.
+	
+	
+	
+	I can see what you see not.
+	Visions milky, then eyes rot.
+	When you turn they will be gone,
+	Whispering their hidden song.
+	Then you see, what cannot be,
+	Shadows move where light should be.
+	Out of darkness out of mind,
+	Cast down, into the Halls of the Blind.
+	
+	
+	O can see what you see not.
+	Visions milky, then eyes rot.
+	When you turn they will be gone,
+	
+
+	
